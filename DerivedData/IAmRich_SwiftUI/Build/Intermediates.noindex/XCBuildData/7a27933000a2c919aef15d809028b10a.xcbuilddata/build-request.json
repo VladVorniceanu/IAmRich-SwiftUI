@@ -1,0 +1,105 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c3cfa644b98c3cc974be6b475243c7d006525430462d099b9700f096c9e03530",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Products",
+          "derivedDataPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex/Previews/IAmRich_SwiftUI/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex/Previews/IAmRich_SwiftUI/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex/Previews/IAmRich_SwiftUI/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "1ECA41AB-8A86-4185-AE44-DEAE3E6D4C48",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/IAmRich_SwiftUI.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/IAmRich_SwiftUI/DerivedData/IAmRich_SwiftUI/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "1ECA41AB-8A86-4185-AE44-DEAE3E6D4C48",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

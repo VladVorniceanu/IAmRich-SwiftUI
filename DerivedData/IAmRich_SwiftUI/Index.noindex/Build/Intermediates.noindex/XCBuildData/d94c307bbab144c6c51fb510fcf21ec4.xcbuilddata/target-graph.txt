@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'IAmRich_SwiftUI' in project 'IAmRich_SwiftUI' (no dependencies)
+Target 'IAmRich_SwiftUI' in project 'IAmRich_SwiftUI' (no dependencies)

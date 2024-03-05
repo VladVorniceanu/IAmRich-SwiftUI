@@ -5,6 +5,91 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>6EE66DB8-448C-4B91-AAFE-48EC14508D36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EE66DB8-448C-4B91-AAFE-48EC14508D36.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IAmRich_SwiftUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IAmRich_SwiftUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews IAmRich_SwiftUI</string>
+			<key>timeStartedRecording</key>
+			<real>731320353.41906095</real>
+			<key>timeStoppedRecording</key>
+			<real>731320369.75889397</real>
+			<key>title</key>
+			<string>Build for Previews IAmRich_SwiftUI</string>
+			<key>uniqueIdentifier</key>
+			<string>6EE66DB8-448C-4B91-AAFE-48EC14508D36</string>
+		</dict>
+		<key>D69413B2-1F8B-4B38-8E44-054FBF13A41A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D69413B2-1F8B-4B38-8E44-054FBF13A41A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IAmRich_SwiftUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IAmRich_SwiftUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews IAmRich_SwiftUI</string>
+			<key>timeStartedRecording</key>
+			<real>731321787.29190195</real>
+			<key>timeStoppedRecording</key>
+			<real>731321791.25527799</real>
+			<key>title</key>
+			<string>Build for Previews IAmRich_SwiftUI</string>
+			<key>uniqueIdentifier</key>
+			<string>D69413B2-1F8B-4B38-8E44-054FBF13A41A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
